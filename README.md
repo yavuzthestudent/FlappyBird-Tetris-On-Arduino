@@ -8,7 +8,7 @@ Bu proje, **Arduino UNO**, **8x8 LED Matrix** ve temel donanım bileşenleri ile
 
 - 🕹️ 2 farklı oyun: **Flappy Bird** ve **Tetris**
 - 💡 8x8 LED Matrix ile görselleştirme
-- 🧠 Oyun mantıkları Arduino C/C++ dili ile yazılmıştır
+- 🧠 Oyun mantıkları Arduino C++ dili ile yazılmıştır
 - 🔘 Buton ile kontrol sistemi
 - 🔄 Döngüsel oyun deneyimi (game over sonrası yeniden başlatma)
 
@@ -58,20 +58,3 @@ Bu proje, **Arduino UNO**, **8x8 LED Matrix** ve temel donanım bileşenleri ile
 - **Flappy Bird** için: `flappy.ino` dosyasını yükle
 - **Tetris** için: `tetris.ino` dosyasını yükle
 - Başlamak için butona basın ve keyfini çıkarın 🎉
-
----
-
-## 🖼️ Görseller
-
-### Flappy Bird
-
-![flappy](images/flappy_preview.jpg)
-
-### Tetris
-
-![tetris](images/tetris_preview.jpg)
-
----
-
-## 📂 Klasör Yapısı
-
